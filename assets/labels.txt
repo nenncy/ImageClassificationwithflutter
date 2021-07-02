@@ -1,0 +1,4 @@
+0 Human
+1 Horse
+2 Dog
+3 Cat
